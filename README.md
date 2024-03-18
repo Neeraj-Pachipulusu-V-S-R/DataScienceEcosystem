@@ -1,1 +1,1 @@
-# DataScienceEcosystem
+# Machine Learning Project
